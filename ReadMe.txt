@@ -1,18 +1,43 @@
-Olá senhores!
-Bem vindos ao GitHub!
+# Projeto Vendinha
 
-Aqui vai um pequeno e rápido tutorial sobre:
+## Descrição
 
-Todos os arquivos serão exibidos em um layout como:
+Informatização do controle de contas de uma pequena venda
 
-> pasta
-arquivo.formato
+Cenário: Uma vendinha precisa informatizar o controle de contas de seus clientes(dívidas penduradas) para facilitar a busca e o cadastro desses dados.
 
-Os arquivos serão definidos através de sua extensão de formato e peço que deixem organizados de acordo com pastas para cada destino do arquivo
+O cliente chega na loja, faz a compra e pede para pendurar para o fim do mês. Só pode haver uma dívida.
 
-Nos arquivos, as edições só serão validas por 2 meios:
+Sistema simples de cadastro para que o dono consiga controlar essas dividas
 
-Commit - Você altera o arquivo principal
-Branch - Você cria um "ramo" do arquivo original que deve ser aprovado para se mesclar ao arquivo principal(se for realizar uma mudança agressiva no arquivo utilizar essa opção)
+## Objetivos
 
-mais alterações em breve...
+- [ ] Diagrama de Caso e Uso
+- [x] Diagrama Entidade-Relacionamento
+- [ ] Histórias de Usuário
+- [ ] Protítipo de Interface
+- [ ] Tempo e Esforço estimado
+
+## Proposta
+
+Proporcionar aos alunos uma experiência prática e integradora.
+Foco no conceito técnico básico
+
+---
+
+## Interfocus
+
+- 73 Funcionários
+- 35 devs
+
+## Ricardo - Engenheiro de Telecomunicações
+
+- Foi Professor
+- Pós-Graduação em Engenharia de Redes
+
+---
+
+## Anotações Extras
+
+- Esse projeto é focado na parte mais teórica, sem foco no desenvolvimento de um sistema em sí.
+- A última parte do projeto será o protótipo da interface
