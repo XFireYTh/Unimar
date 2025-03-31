@@ -13,7 +13,7 @@ Sistema simples de cadastro para que o dono consiga controlar essas dividas
 ## Objetivos
 
 - [ ] Diagrama de Caso e Uso
-- [ ] Diagrama Entidade-Relacionamento
+- [x] Diagrama Entidade-Relacionamento
 - [ ] Histórias de Usuário
 - [ ] Protítipo de Interface
 - [ ] Tempo e Esforço estimado
